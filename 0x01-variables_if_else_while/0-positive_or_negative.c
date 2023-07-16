@@ -4,7 +4,7 @@
 
 /**
 * main -  more headers goes there
-* Return: Erick says 0
+* Return: k says 0
 */
 
 /* betty style doc for function main goes there */
@@ -23,4 +23,4 @@ else
 printf("%d is negative\n", n);
 
 return (0);
-}        
+}
