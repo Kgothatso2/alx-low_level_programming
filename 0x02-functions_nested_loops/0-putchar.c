@@ -1,11 +1,15 @@
 #include <stdio.h>
+
+
 /**
- * main - print _putchar
- *Description: is written by mbah
- * Return 0
+ * main - Entry point of the program
+ *
+ *Description: This function serves as the entry point of the program.
+ *
+ * Return: 0 on successful execution
  */
-int main(void)
-{
+	int main(void)
+	{
 	putchar('_');
 	putchar('p');
 	putchar('u');
@@ -16,4 +20,4 @@ int main(void)
 	putchar('r');
 	putchar('\n');
 	return (0);
-}
+	}
