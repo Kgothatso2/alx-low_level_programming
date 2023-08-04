@@ -2,6 +2,10 @@
 
 int main(void)
 {
+    printf("a[2] = 98,\n");
+    return 0;
+}
+{
   int n;
   int a[5];
   int *p;
